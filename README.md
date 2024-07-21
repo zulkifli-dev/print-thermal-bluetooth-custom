@@ -11,3 +11,6 @@ Code JavaScript ini memungkinkan pencetakan ke printer thermal melalui Bluetooth
 ## Instalasi
 
 Pastikan Anda telah menginstal Node.js dan npm. Kemudian, instal dependensi yang diperlukan:
+
+```bash
+npm install moment zustand
