@@ -1,6 +1,6 @@
-# Alat Pencetak Thermal Bluetooth
+# Code Pencetak Thermal Bluetooth
 
-library JavaScript ini memungkinkan pencetakan ke printer thermal melalui Bluetooth.
+Code JavaScript ini memungkinkan pencetakan ke printer thermal melalui Bluetooth.
 
 ## Fitur
 
